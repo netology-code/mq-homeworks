@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  background: #f3f3f3;
+  padding: 50px 0;
+  font-family: Roboto, sans-serif;
+  color: #333333;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px 0;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.container {
+  text-align: justify;
+  padding: 15px 30px;
+  width: 90%;
+  max-width: 1280px;
+  min-width: 860px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.container::after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+.trophy {
+  display: inline-block;
+  text-align: center;
+  width: 28%;
+  vertical-align: top;
+  padding: 5% 1%;
+  border: 3px solid #fff;
+  border-radius: 5%;
+  margin: 1%;
+  box-shadow: 0 10px 24px 0 rgba(0, 0, 0, 0.19), 0 15px 34px 0 rgba(0, 0, 0, 0.06);
+}
+
+.trophy img {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #ffffff;
+}
+
+.trophy h2 {
+  font-weight: 300;
+}
+
+.trophy span {
+  color: #999999;
+}
