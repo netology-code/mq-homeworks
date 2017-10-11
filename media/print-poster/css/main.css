@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	color: #f1f1f1;
+	background-color: #0094b9;
+}
+
+.container {
+	width: 90%;
+	max-width: 1200px;
+	margin: 50px auto;
+	text-align: center;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+.poem {
+	font-size: 30px;
+	line-height: 1.5;
+	font-family: Oranienbaum, serif;
+}
+
+.author {
+	margin-top: 50px;
+	text-align: right;
+
+	font-style: italic;
+	font-size: 20px;
+	letter-spacing: 4px;
+}
