@@ -1,0 +1,132 @@
+body {
+	margin: 0;
+	font-family: Lato, sans-serif;
+	color: #3d3d3d;
+	background-color: #f3f3f3;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.wrapper {
+	width: 90%;
+	margin: 0 auto;
+	padding: 35px 0;
+	display: flex;
+}
+
+aside {
+	width: 25%;
+	box-sizing: border-box;
+	height: 100%;
+	margin-right: 35px;
+}
+
+main {
+	width: 75%;
+}
+
+section {
+	margin-bottom: 35px;
+}
+
+
+.main-header {
+	background-color: #f10e34;
+	padding: 30px 0;
+}
+
+.menu {
+	float: right;
+	color: #ffffff;
+	text-transform: uppercase;
+	padding: 25px 0;
+	font-size: 15px;
+}
+
+.menu-link {
+	padding: 0 15px;
+}
+
+.product-cards {
+	padding: 15px 25px;
+	background-color: #ffffff;
+}
+
+.product-cards:not(:first-child) {
+	margin-top: 35px;
+}
+
+.product-header {
+	padding: 0 25px;
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.section-menu {
+	color: #3d3d3d;
+}
+
+.section-menu .menu-link {
+	text-transform: capitalize;
+}
+
+.product-title {
+	text-transform: uppercase;
+}
+
+.product-body {
+	display: flex;
+	margin: 25px 0;
+}
+
+.lot {
+	width: 23%;
+	cursor: pointer;
+	overflow: hidden;
+	text-align: center;
+}
+
+.lot:not(:last-child) {
+	margin-right: 2%;
+}
+
+.lot-prewiev {
+	width: 100%;
+	overflow: hidden;
+}
+
+.lot-title {
+	font-weight: 100;
+}
+
+.lot-price::after {
+	content: " ₽";
+}
+
+.buy-btn {
+	margin-top: 20px;
+	border: none;
+	border-radius: 20px;
+	background-color: #f10e34;
+	color: #ffffff;
+	font-size: 16px;
+	padding: 5%;
+	text-transform: uppercase;
+	cursor: pointer;
+}
+
+aside .product-header {
+	padding: 0;
+}
+
+aside .lot {
+	width: 100%;
+}
