@@ -9,7 +9,9 @@
 
 ![Scroll on header](../../sources/rubber-header-scroll.jpg)
 
-Избавьтесь от нее.
+Избавьтесь от нее, чтобы шапка сайтв выглядела так:
+
+![Scroll on header](../../sources/rubber-header-noscroll.jpg)
 
 При этом если ширина монитора больше, чем 1280px (например, 1920x1080px) контент сайта должен располагаться по центру:
 
