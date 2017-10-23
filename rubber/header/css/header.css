@@ -1,4 +1,5 @@
-html, body{
+
+html, body {
   height: 100%;
 }
 
@@ -7,77 +8,82 @@ body {
   font-family: Poiret One, Arial, sans-serif;
 }
 
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-header {
-  width: 1300px;
-  margin: 0 auto;
+.header {
+  min-width: 1280px;
   min-height: 100%;
-  text-align: center;
+  padding-bottom: 50px;
+  box-sizing: border-box;
   color: #f1f1f1;
-  background: #7474bf;
   background: linear-gradient(to right, #7474bf, #348ac7);
 }
 
 .container {
-  width: 980px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1280px;
 }
 
-.panel{
-  overflow: hidden;
+.panel {
   border-bottom: 1px solid #999;
-  padding: 25px;
+  padding: 25px 20px;
   margin-bottom: 150px;
+}
+
+.panel:after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
 .logo {
   float: left;
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 28px;
   font-family: Prosto One, cursive;
+  font-size: 28px;
+  color: inherit;
 }
 
-.logo span {
+.logo__label {
   color: #cddc39;
 }
 
-.menu-block {
-  padding: 5px 0;
+.menu {
+  margin-top: 7px;
   float: right;
 }
 
-.menu-item {
+.menu__item {
   font-size: 18px;
-  padding: 5px 15px;
-  transition: color 0.4s;
+  margin-left: 30px;
+  color: inherit;
+  text-decoration: none;
 }
 
-.menu-item:last-child {
-  padding-right: 0;
+.menu__item:first-child {
+  margin-left: 0;
 }
 
-.menu-item:hover {
+.menu__item:hover {
   color: #cddc39;
-  transition: color 0.4s;
 }
 
-.main-title {
-  max-width: 90%;
-  margin: 0 auto;
+.slogan {
+  display: block;
+  font-weight: 700;
   text-align: center;
   font-size: 62px;
+  position: relative;
+  padding-bottom: 30px;
 }
 
-.main-title::after {
+.slogan::after {
   content: "";
-  display: block;
-  margin: 20px auto;
   width: 150px;
   height: 8px;
-  background: #cddc39;
+  background-color: #cddc39;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  margin-left: -75px;
 }
