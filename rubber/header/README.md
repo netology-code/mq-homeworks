@@ -41,4 +41,4 @@
 
 ### В песочнице CodePen
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [CODEPEN](https://codepen.io/P-Trofimov/pen/ZXNBwv)
+Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/frontgirl/pen/dVEJJz](https://codepen.io/frontgirl/pen/dVEJJz?editors=0100#0)
