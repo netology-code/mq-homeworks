@@ -38,11 +38,6 @@ body {
   box-shadow: 0 10px 24px 0 rgba(0, 0, 0, 0.19), 0 15px 34px 0 rgba(0, 0, 0, 0.06);
 }
 
-.trophy:nth-child(3n+2) {
-  margin-left: 2%;
-  margin-right: 2%;
-}
-
 .trophy__img {
   width: 128px;
   height: 128px;
