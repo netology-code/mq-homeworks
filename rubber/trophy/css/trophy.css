@@ -1,57 +1,73 @@
 body {
   margin: 0;
-  background: #f3f3f3;
-  padding: 50px 0;
-  font-family: Roboto, sans-serif;
-  color: #333333;
+  font-family: Open Sans, sans-serif;
 }
 
-h1 {
-  text-align: center;
-  margin: 50px 0;
-  text-transform: uppercase;
-  font-weight: 300;
+.page {
+  background-image: linear-gradient(to right, #034378, #2d4e68);
+  padding: 50px;
+  min-width: 768px;
 }
 
 .container {
-  text-align: justify;
-  padding: 15px 30px;
-  width: 90%;
-  max-width: 1280px;
-  min-width: 860px;
-  margin: 0 auto;
-  box-sizing: border-box;
+  max-width: 1000px;
+  min-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .container::after {
-  content: "";
-  display: inline-block;
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.card {
+  float: left;
+  margin-bottom: 30px;
+  width: 485px;
+  position: relative;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.2);
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.card:nth-child(odd) {
+  margin-right: 15px;
+}
+
+.card:nth-child(even) {
+  margin-left: 15px;
+}
+
+.card__img {
+  max-width: 100%;
+  display: block;
+}
+
+.card__date {
+  box-sizing: border-box;
   width: 100%;
+  padding: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), transparent);
 }
 
-.trophy {
-  display: inline-block;
-  text-align: center;
-  width: 28%;
-  vertical-align: top;
-  padding: 5% 1%;
-  border: 3px solid #fff;
-  border-radius: 5%;
-  margin: 1%;
-  box-shadow: 0 10px 24px 0 rgba(0, 0, 0, 0.19), 0 15px 34px 0 rgba(0, 0, 0, 0.06);
+.card__info {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 25px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to top, #000000, transparent);
 }
 
-.trophy img {
-  width: 128px;
-  height: 128px;
-  border-radius: 50%;
-  box-shadow: 0 0 0 3px #ffffff;
-}
-
-.trophy h2 {
+.card__name {
+  font-size: 18px;
   font-weight: 300;
-}
-
-.trophy span {
-  color: #999999;
+  margin-top: 10px;
+  margin-bottom: 0;
 }
