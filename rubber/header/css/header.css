@@ -17,6 +17,13 @@ body {
   background: linear-gradient(to right, #7474bf, #348ac7);
 }
 
+@media screen and (max-width: 1023px){
+
+  .header{
+    background: linear-gradient(to right, #3498db, #9054a9);
+  }
+}
+
 .container {
   margin-left: auto;
   margin-right: auto;
