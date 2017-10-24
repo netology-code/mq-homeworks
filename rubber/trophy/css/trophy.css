@@ -1,57 +1,59 @@
 body {
   margin: 0;
-  background: #f3f3f3;
-  padding: 50px 0;
+  background-color: #f3f3f3;
   font-family: Roboto, sans-serif;
   color: #333333;
 }
 
-h1 {
+.container {
+  max-width: 1280px;
+  min-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px 30px;
+}
+
+.title {
   text-align: center;
-  margin: 50px 0;
   text-transform: uppercase;
   font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 30px;
 }
 
-.container {
-  text-align: justify;
-  padding: 15px 30px;
-  width: 90%;
-  max-width: 1280px;
-  min-width: 860px;
-  margin: 0 auto;
-  box-sizing: border-box;
-}
-
-.container::after {
+.trophies::after {
   content: "";
-  display: inline-block;
-  width: 100%;
+  display: block;
+  clear: both;
 }
 
 .trophy {
-  display: inline-block;
+  float: left;
+  box-sizing: border-box;
+  padding: 25px 15px;
+  margin-bottom: 15px;
   text-align: center;
-  width: 28%;
-  vertical-align: top;
-  padding: 5% 1%;
-  border: 3px solid #fff;
-  border-radius: 5%;
-  margin: 1%;
+  border: 3px solid #ffffff;
+  border-radius: 15px;
   box-shadow: 0 10px 24px 0 rgba(0, 0, 0, 0.19), 0 15px 34px 0 rgba(0, 0, 0, 0.06);
 }
 
-.trophy img {
+.trophy:nth-child(3n+2) {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.trophy__img {
   width: 128px;
   height: 128px;
   border-radius: 50%;
   box-shadow: 0 0 0 3px #ffffff;
 }
 
-.trophy h2 {
+.trophy__name {
   font-weight: 300;
 }
 
-.trophy span {
+.trophy__year {
   color: #999999;
 }
