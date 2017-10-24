@@ -39,4 +39,4 @@
 
 ### В песочнице CodePen
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/frontgirl/pen/jGoJPw](https://codepen.io/frontgirl/pen/jGoJPw?editors=0100#0)
+Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/rGEGvm](https://codepen.io/Netology/pen/rGEGvm?editors=0100#0)

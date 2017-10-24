@@ -37,4 +37,4 @@ Cтраница при этом должна выглядеть так:
 
 ### В песочнице CodePen
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/frontgirl/pen/aLrxYZ](https://codepen.io/frontgirl/pen/aLrxYZ?editors=0100#0)
+Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/jGjGeq](https://codepen.io/Netology/pen/jGjGeq?editors=0100#0)
