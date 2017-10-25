@@ -13,7 +13,7 @@
 
 ![Scroll on header](../../sources/fluid-header-noscroll.jpg)
 
-При этом если ширина окна браузера больше, чем `1280px` контент сайта должен располагаться по центру:
+При этом, если ширина окна браузера больше, чем `1280px`, контент сайта должен располагаться по центру:
 
 ![Header on a widescreen](../../sources/fluid-header-widescreen.jpg)
 
