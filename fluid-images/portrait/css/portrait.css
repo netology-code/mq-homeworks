@@ -1,13 +1,8 @@
-body {
-	margin: 0;
-	padding: 50px;
-	background-color: #faefea;
+.container {
+    width: 1920px;
+    max-width: 1920px;
 }
 
-figure {
-	margin: 0 auto;
-}
-
-figure img {
+.poster {
 
 }
