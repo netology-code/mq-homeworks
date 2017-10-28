@@ -3,32 +3,45 @@ body {
 	background: linear-gradient(to right, #cc95c0, #dbd4b4, #7aa1d2);
 }
 
-h3, p {
-	margin: 0;
-}
-
 .container {
-	width: 50%;
-	margin: 0 auto;
+	width: 75%;
+	max-width: 480px;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 50px 0;
 }
 
-.contact-item {
+.card {
+	display: flex;
+	flex-wrap: wrap;
+
 	background-color: #ffffff;
-	overflow: hidden;
 	padding: 15px;
-	margin: 0 0 15px;
+	margin-bottom: 15px;
+
+	font-family: Open Sans, sans-serif;
+	font-size: 15px;
 }
 
-.avatar {
-	float: left;
+.card__avatar {
 	width: 128px;
 	height: 128px;
-	margin-right: 35px;
+	margin-right: 5%;
 	border-radius: 50%;
 }
 
-.main-content {
-	padding: 15px 0;
-	font-family: Cairo, sans-serif;
+.card__content {
+	padding-top: 25px;
+}
+
+.card__name {
+	font-size: 18px;
+	line-height: 1.4;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.card__contact {
+	margin-top: 5px;
+	line-height: 1.4;
 }
