@@ -33,4 +33,4 @@
 
 ### В песочнице CodePen
 
-Внесите изменения во вкладке HTML. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/qVBoPp](https://codepen.io/Netology/pen/qVBoPp?editors=1100#0)
+Внесите изменения во вкладках HTML и CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/qVBoPp](https://codepen.io/Netology/pen/qVBoPp?editors=1100#0)
