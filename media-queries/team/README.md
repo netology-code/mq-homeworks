@@ -44,7 +44,7 @@
 4. Протестируйте ваше решение, изменяя размеры окна браузера. При сужении окна, как только его ширина станет меньше `1024px`, должна появляться горизонтальная полоса прокрутки. 
 При этом заголовки блоков `.team__item` изменят цвет.
 
-![Team layout target on a small screen](../../sources/media-queries-team-small.png)
+![Team layout target on a small screen](../../sources/media-queries-team-target-small.jpg)
 
 Не требуется вносить какие-либо другие правки в CSS или писать дополнительные правила.
 
