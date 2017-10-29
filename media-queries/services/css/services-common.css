@@ -1,0 +1,95 @@
+
+body {
+	margin: 0;
+}
+
+p{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.service {
+	position: relative;
+	box-sizing: border-box;
+	padding: 40px 25px 25px;
+	margin-top: 75px;
+	background-color: #eeeeee;
+	text-align: center;
+	font-family: Open Sans, sans-serif;
+	font-size: 15px;
+}
+
+.service:first-of-type{
+	margin-top: 0;
+}
+
+@media screen and (max-width: 1023px) {
+
+	.service {
+		width: 100%;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+
+	.service {
+		width: 49%;
+	}
+
+	.service:nth-of-type(2){
+		margin-top: 0;
+	}
+
+	.service:nth-child(odd) {
+		margin-right: 1%;
+	}
+
+	.service:nth-child(even) {
+		margin-left: 1%;
+	}
+}
+
+.service:before {
+	content: "";
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-color: #a74752;
+	background-size: 24px;
+	position: absolute;
+	top: -25px;
+	left: 50%;
+	margin-left: -25px;
+}
+
+.service_design:before {
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/img/design.svg");
+}
+
+.service_html5:before {
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/html5.svg");
+}
+
+.service_backend:before {
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/backend.svg");
+}
+
+.service_analytics:before {
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/analytics.svg");
+}
+
+.service__name {
+	font-size: 22px;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+
+.service__description {
+	margin-top: 15px;
+}
+
+
+
