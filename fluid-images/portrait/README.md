@@ -8,7 +8,7 @@
 
 ![Can't see portrait on the iPhone](../../sources/fluid-images-portrait-scroll.png)
 
-Друг попросил вас помочь ему сделать так, чтобы в окне браузера любой ширины портрет было бы видно полностью. В узкои окне браузера:
+Друг попросил вас помочь ему сделать так, чтобы в окне браузера любой ширины портрет было бы видно полностью. В узком окне браузера:
 
 ![Portrait on the iPhone](../../sources/fluid-images-portrait-target-small.png)
 
