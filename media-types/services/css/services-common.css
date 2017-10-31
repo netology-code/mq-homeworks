@@ -65,19 +65,19 @@ p{
 }
 
 .service_design:before {
-	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/img/design.svg");
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-types/services/img/design.svg");
 }
 
 .service_html5:before {
-	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/img/html5.svg");
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-types/services/img/html5.svg");
 }
 
 .service_backend:before {
-	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/img/backend.svg");
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-types/services/img/backend.svg");
 }
 
 .service_analytics:before {
-	background-image: url("https://netology-code.github.io/mq-homeworks/media-queries/services/img/analytics.svg");
+	background-image: url("https://netology-code.github.io/mq-homeworks/media-types/services/img/analytics.svg");
 }
 
 .service__name {
