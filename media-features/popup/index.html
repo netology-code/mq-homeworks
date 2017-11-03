@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700">
+    <link rel="stylesheet" href="./css/popup-common.css">
+    <link rel="stylesheet" href="./css/popup.css">
+</head>
+<body>
+<div class="popup">
+  <div class="popup__container">
+    <div class="sign-up">
+      <header class="sign-up__header">
+        <h3 class="sign-up__title">Sign Up!</h3> 
+        <span class="sign-up__hint">It's free and takes less than 30 seconds</span>
+      </header>
+      <div class="sign-up__content">
+        <form class="sign-up__form">
+          <div class="sign-up__row">
+            <div class="sign-up__column">
+              <label class="sign-up__label" for="username">Enter your username</label>
+              <input id="username" class="sign-up__field sign-up__field_username" placeholder="e.g melnik909" name="username" required> 
+            </div>
+            <div class="sign-up__column">
+              <label class="sign-up__label" for="email">Enter your email</label>
+              <input id="email" class="sign-up__field sign-up__field_email" type="email" placeholder="e.g melnik909@gmail.ru" name="email" required> 
+            </div>            
+          </div>
+          <div class="sign-up__row">
+            <div class="sign-up__column">
+              <label class="sign-up__label" for="password">Enter your password</label>
+              <input id="password" class="sign-up__field sign-up__field_password" type="password" placeholder="e.g fo3!bU3" name="password" required> 
+            </div>
+            <div class="sign-up__column">
+              <label class="sign-up__label" for="repeat-password">Confirm your password</label>
+              <input id="repeat-password" class="sign-up__field sign-up__field_password" type="password" placeholder="e.g fo3!bU3" name="confirm-password" required> 
+            </div>
+          </div>  
+          <div class="sign-up__row">
+            <button class="sign-up__button"><span class="sign-up__button-label">Create account</span></button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <button class="popup__close" type="button">Закрыть окно</button>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+.popup__close {
+  width: 28px;
+  height: 20px;
+  font-size: 20px;
+
+  position: absolute;
+  top: -30px;
+  right: 0;  
+}
+
+.popup__close:before, .popup__close:after {
+  width: 28px;
+  height: 4px;
+}
