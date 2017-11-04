@@ -71,3 +71,14 @@
 ![poster card](../../sources/media-queries-poster-card.jpg)
 
 Не требуется вносить какие-либо другие правки в CSS и HTML, кроме описанных выше.
+
+## Реализация
+
+### Локально с использованием git
+
+Внесите изменения в файлы `./css/print-poster.css` и `index.html`. 
+
+### В песочнице CodePen
+
+Создайте новый пен и скопируйте ссылку на css, как это описано выше. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/JOowLm](https://codepen.io/Netology/pen/JOowLm?editors=0100#0)
+Внесите изменения во вкладке HTML пена задания. Внесите изменения во вкладке CSS пена 1.
