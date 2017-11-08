@@ -1,19 +1,23 @@
 .container {
-	width: 960px;
-	padding: 15px 10px;
+  width: 70.279%;
+	max-width: 1300px;
+	min-width: 768px;
+  padding: 15px 10px;
+  box-sizing: border-box;
 }
 
 .card {
-	width: 428px;
-	padding: 30px 20px;
-	border: 1px solid #d5d4d4;
-	margin-bottom: 20px;
+  width: calc(50% - 10px);
+  padding: 30px 20px;
+  border: 1px solid #d5d4d4;
+  margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 .card:nth-child(even) {
-	margin-left: 10px;
+  margin-left: 10px;
 }
 
 .card:nth-child(odd) {
-	margin-right: 10px;
+  margin-right: 10px;
 }
