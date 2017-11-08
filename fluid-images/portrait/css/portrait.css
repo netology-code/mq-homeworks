@@ -1,7 +1,8 @@
 .container {
-    width: 1920px;
+  width: 100%;
+  max-width: 1920px;
 }
 
 .poster {
-
+  width: 100%;
 }
