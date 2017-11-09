@@ -1,6 +1,6 @@
 .popup__close {
-  width: 28px;
-  height: 20px;
+  width: 1.4em;
+  height: 1em;
   font-size: 20px;
 
   position: absolute;
@@ -9,6 +9,12 @@
 }
 
 .popup__close:before, .popup__close:after {
-  width: 28px;
-  height: 4px;
+  width: 1em;
+  height: 0.2em;
+}
+
+@media (max-width: 480px) {
+  .popup__close {
+    font-size: 15px;
+  }
 }

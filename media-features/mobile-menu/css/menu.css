@@ -1,0 +1,21 @@
+.menu__list {
+  display: list-item;
+}
+.menu__button {
+  display: none;
+}
+.title {
+  font-size: 45px;
+}
+
+@media (max-width: 640px) {
+  .menu__list {
+    display: none;
+  }
+  .menu__button {
+    display: block;
+  }
+  .title {
+    font-size: 24px;
+  }
+}
