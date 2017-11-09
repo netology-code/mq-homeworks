@@ -5,7 +5,6 @@
 
 .team__container {
     display: flex;
-    flex-wrap: wrap;
 }
 
 .team__item {
