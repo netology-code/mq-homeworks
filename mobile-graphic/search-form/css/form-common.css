@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  font-family: Roboto, sans-serif;
+  color: #ffffff;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  background-color: #6441a5;
+}
+
+.search {
+  margin: auto;
+  width: 90%;
+  max-width: 850px;
+}
+
+.search__group {
+  display: block;
+}
+
+.search__hint {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.search__field-box {
+  position: relative;
+}
+
+.search__field {
+  border: 3px solid #ffd700;
+  box-sizing: border-box;  
+  width: 100%;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;  
+  border-radius: 0;
+
+  transition: background-color .3s ease-out;
+  font-family: inherit;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: transparent;
+}
+
+.search__field::-webkit-input-placeholder { 
+  color: #ffffff;
+}
+
+.search__field::-moz-placeholder { 
+  color: #ffffff;
+  opacity: 1;
+}
+
+.search__field:focus {
+  background-color: #ffffff;
+  color: #6441a5;
+  outline: none;
+}
+
+.search__field:focus::-webkit-input-placeholder { 
+  color: #6441a5;
+}
+
+.search__field:focus::-moz-placeholder { 
+  color: #6441a5;
+}
+
+.search__icon {
+  width: 20px;
+  height: 20px;
+
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 15px;
+}
+
+.search__button {
+  box-sizing: border-box;
+  border: none;
+
+  cursor: pointer;
+  background-color: #ffd700;
+  transition: background .2s ease-out;
+
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 700;
+  color: #222;
+  text-transform: uppercase;  
+}
+
+.search__button:hover, .search__button:focus {
+  background-color: #ffe038;
+}
+
+.search__button:focus {
+  outline: none;
+}
+
+@media (min-width: 769px) {
+
+  .search {
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .search__group {
+    flex-grow: 1; 
+  } 
+
+  .search__field {
+    padding: 16px 20px 16px 45px;
+  } 
+
+  .search__button {
+    flex: none;
+    padding: 20px 50px;
+  }
+}
+
+@media (max-width: 768px) {
+
+  .search__field {
+    padding: 12px 10px 12px 45px;
+  } 
+
+  .search__button {
+    width: 100%;
+    margin-top: 10px;
+    padding: 15px 10px;
+  }
+}
