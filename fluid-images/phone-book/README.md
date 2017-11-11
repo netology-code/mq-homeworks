@@ -11,7 +11,7 @@
  
 ![Call dialog on click](../../sources/fluid-phone-book-phone.jpg)
 
-а при нажатии на почту — открываться почтовый клиент:
+А при нажатии на почту — открываться почтовый клиент:
 
 ![Email dialog on click](../../sources/fluid-phone-book-mail.jpg)
 
