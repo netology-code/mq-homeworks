@@ -12,7 +12,7 @@
 
 ![Portrait on a small screen](../../sources/fluid-images-portrait-target-small.png)
 
-и в широком:
+И в широком:
 
 ![Portrait on a wide screen](../../sources/fluid-images-portrait-target-widescreen.jpg)
 
