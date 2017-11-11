@@ -7,11 +7,11 @@
  
 ![Services layout current](../../sources/media-queries-services-current.jpg)
 
-Ваша задача &mdash; исправить верстку так, чтобы блоки располагались по два в строчку начиная с `1024px`:
+Ваша задача &mdash; исправить верстку так, чтобы блоки располагались по два в строчку, начиная с `1024px`:
 
 ![Services layout target](../../sources/media-queries-services-target.jpg)
 
-А если ширина окна браузера окажется у́же `1024px`, блоки должны расположиться один под другим:
+Если ширина окна браузера окажется у́же `1024px`, блоки должны расположиться один под другим:
 
 ![Services layout target on a small screen](../../sources/media-queries-services-small.png)
 
