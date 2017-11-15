@@ -22,9 +22,9 @@
 
 3. Для устройств, у которых ширина экрана меньше `641px`, рассчитайте `font-size` элемента `.header` так, чтобы у элемента `.header__slogan` `font-size` был `24px`.
 
-4. Для устройств, у которых ширина экрана одновременно больше `640px` и меньше `1301px`, добавьте фоновое изображение [netology_1200.jpg](https://github.com/netology-code/mq-homeworks/adaptive-layout/welcome-block/img/netology_1200.jpg) у элемента `.header`.
+4. Для устройств, у которых ширина экрана одновременно больше `640px` и меньше `1301px`, добавьте фоновое изображение [netology_1200.jpg](https://netology-code.github.io/mq-homeworks/adaptive-layout/welcome-block/img/netology_1200.jpg) у элемента `.header`.
 
-5. Для устройств, у которых ширина экрана меньше 641px, добавьте фоновое изображение [netology_600.jpg](https://github.com/netology-code/mq-homeworks/adaptive-layout/welcome-block/img/netology_600.jpg) у элемента `.header`.
+5. Для устройств, у которых ширина экрана меньше 641px, добавьте фоновое изображение [netology_600.jpg](https://netology-code.github.io/mq-homeworks/adaptive-layout/welcome-block/img/netology_600.jpg) у элемента `.header`.
 
 6. Протестируйте результат в эмуляторе, выбрав iPad:
  
