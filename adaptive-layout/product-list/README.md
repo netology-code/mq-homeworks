@@ -46,4 +46,4 @@
 
 ### В песочнице CodePen
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/JOGarN](https://codepen.io/Netology/pen/JOGarN)
+Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/wPqXwv](https://codepen.io/Netology/pen/wPqXwv)
