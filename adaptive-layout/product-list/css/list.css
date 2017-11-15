@@ -1,0 +1,11 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product {
+  box-sizing: border-box;
+  width: 20%; 
+  padding: 1.5em;
+  font-size: 16px;  
+}
