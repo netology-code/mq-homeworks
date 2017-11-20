@@ -20,11 +20,11 @@
 
 5. Протестируйте результат в эмуляторе, выбрав iPhone 4. В портретной ориентации должно загрузиться следующее изображение: 
 
-![Photo card layout target on a small portrait screen](../../sources/adaptive-layout-welcome-step0.jpg)
+![Photo card layout target on a small portrait screen](../../sources/adaptive-typography-album-step0.jpg)
 
 А в пейзажной — такое:
 
-![Photo card layout target on a small landscape screen](../../sources/adaptive-layout-welcome-step1.jpg)
+![Photo card layout target on a small landscape screen](../../sources/adaptive-typography-album-step1.jpg)
 
 ## Реализация
 
