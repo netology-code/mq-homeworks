@@ -1,0 +1,18 @@
+html{
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 25px;
+}
