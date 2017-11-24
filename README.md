@@ -7,3 +7,5 @@
 4. [Особенности верстки для мобильных устройств](mobile-graphic/)
 5. [Верстка адаптивного макета](adaptive-layout/)
 6. [Адаптивная типографика](adaptive-typography/)
+7. [Breakpoints](breakpoints/)
+

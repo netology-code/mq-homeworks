@@ -1,0 +1,43 @@
+.container {
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  font-size: 20px;
+}
+
+@media (min-width: 1300px) {
+  
+  .card {
+    width: 20%;
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1299px) {
+  
+  .card {
+    width: 25%;
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 959px) {
+  
+  .card {
+    width: 50%;
+    font-size: 19px;
+  }
+}
+
+@media (max-width: 479px) {
+  
+  .card {
+    width: 100%;
+  }
+}
