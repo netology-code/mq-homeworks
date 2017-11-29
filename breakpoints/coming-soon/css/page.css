@@ -1,0 +1,26 @@
+.welcome {
+  position: relative;
+  color: #ffffff;
+  min-height: 565px;
+  
+  background-image: url(../img/man-full.jpg);
+  background-repeat: no-repeat;
+  background-position: center 50%;
+  background-color: #000000;
+  background-size: cover;
+}
+
+@media (max-width: 1023px) {
+
+  .container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .welcome__info {
+    padding-left: 85px;
+    max-width: 700px;
+  } 
+}
