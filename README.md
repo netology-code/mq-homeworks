@@ -8,4 +8,4 @@
 5. [Верстка адаптивного макета](adaptive-layout/)
 6. [Адаптивная типографика](adaptive-typography/)
 7. [Breakpoints](breakpoints/)
-
+8. [Адаптивные изображения](adaptive-images/)
