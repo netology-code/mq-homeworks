@@ -28,23 +28,24 @@
 
 Карточки с 14 по 20 на экране от 1281px:
 
-![City cards 14-20 layout target 1281+](../../sources/adaptive-images-agency-1.jpg)
+![City cards 14-20 layout target 1281+](../../sources/adaptive-images-agency-5.jpg)
 
 Карточки с 1 по 6 на экране от 961px и до 1280px:
 
-![City cards 1-6 layout target 961-1280](../../sources/adaptive-images-agency-2.jpg)
+![City cards 1-6 layout target 961-128](../../sources/adaptive-images-agency-1.jpg)
 
 Карточки с 1 по 5 на экране от 641px и до 960px: 
 
-![City cards 1-5 layout target 641-960](../../sources/adaptive-images-agency-3.jpg)
+![City cards 1-5 layout target 641-9600](../../sources/adaptive-images-agency-2.jpg)
+
 
 Карточки с 1 по 5 на экране от 480px и до 640px:
 
-![City cards 1-5 layout target 480-640](../../sources/adaptive-images-agency-4.jpg)
+![City cards 1-5 layout target 480-640](../../sources/adaptive-images-agency-3.jpg)
 
 Карточки 1 и 2 на экране до 479px:
 
-![City cards 1-2 layout target <=479](../../sources/adaptive-images-agency-5.jpg)
+![City cards 1-2 layout target <=479](../../sources/adaptive-images-agency-4.jpg)
 
 ## Реализация
 
