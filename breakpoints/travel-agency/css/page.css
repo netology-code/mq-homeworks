@@ -1,5 +1,7 @@
-.card {
-  font-size: 20px;
+@media (max-width: 479px) {
+  .card {
+    font-size: 20px;
+  }
 }
 
 @media (min-width: 480px) {
