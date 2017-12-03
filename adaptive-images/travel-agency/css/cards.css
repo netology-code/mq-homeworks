@@ -1,28 +1,65 @@
+/*@media (max-width: 479px) {
+  .card {
+    width: 100%;
+  }
+}*/
 @media (min-width: 480px) {
-  
+
   .container {
     display: flex;
     flex-wrap: wrap;
   }
 }
 
-@media (min-width: 480px) and (max-width: 959px) {
-  
+@media (min-width: 480px) and (max-width: 640px) {
+
   .card {
+    width: 50%;
+  }
+
+  .card:nth-child(3n+3) {
+    width: 100%;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 960px) {
+
+  .card {
+    width: 50%;
+  }
+
+  .card:nth-child(n+3):nth-last-child(n+16),
+  .card:nth-child(n+8):nth-last-child(n+11),
+  .card:nth-child(n+13):nth-last-child(n+6),
+  .card:nth-child(n+18):nth-last-child(n+1) {
+    width: 33.3%;
+  }
+}
+
+@media (min-width: 961px) and (max-width: 1280px) {
+
+  .card {
+    width: 25%;
+  }
+
+  .card:nth-child(n+5):nth-last-child(n+15),
+  .card:nth-child(n+11):nth-last-child(n+9) {
     width: 50%;
   }
 }
 
-@media (min-width: 960px) and (max-width: 1280px) {
-  
-  .card {
-    width: 25%;
-  }
-}
-
 @media (min-width: 1281px) {
-  
+
   .card {
     width: 20%;
+  }
+
+  .card:nth-child(n+6):nth-last-child(n+13),
+  .card:nth-child(n+14):nth-last-child(n+3) {
+    width: 33.3%;
+  }
+
+  .card:nth-child(n+17):nth-last-child(n+1) {
+    width: 25%;
   }
 }
