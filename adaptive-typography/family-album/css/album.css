@@ -1,3 +1,23 @@
-.home {
-  background-image: url("../img/wedding4.jpg");
+@media (min-width: 1400px) {
+  .home {
+    background-image: url("../img/wedding4.jpg");
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1399px) {
+  .home {
+    background-image: url("../img/wedding3.jpg");
+  }
+}
+
+@media (max-width: 640px) and (orientation: landscape) {
+  .home {
+    background-image: url("../img/wedding2.jpg");
+  }
+}
+
+@media (max-width: 640px) and (orientation: portrait) {
+  .home {
+    background-image: url("../img/wedding1.jpg");
+  }
 }

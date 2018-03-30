@@ -5,7 +5,35 @@
 
 .product {
   box-sizing: border-box;
-  width: 20%; 
   padding: 1.5em;
-  font-size: 16px;  
+  font-size: 16px;
+}
+
+@media (min-width: 1301px) {
+  .product {
+    width: 20%;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1300px) {
+  .product {
+    width: 25%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 959px) {
+  .product {
+    width: 33.3%;
+  }
+}
+
+@media (min-width: 376px) and (max-width: 767px) {
+  .product {
+    width: 50%;
+  }
+}
+@media (max-width: 375px) {
+  .product {
+    width: 100%;
+  }
 }

@@ -4,4 +4,25 @@
 
 .post__name {
   font-size: 1.5em;
+  margin: auto;
+}
+
+@media (min-width: 481px) {
+  .section__header {
+    font-size: 12px;
+  }
+
+  .post {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .section__header {
+    font-size: 10px;
+  }
+
+  .post {
+    font-size: 12px;
+  }
 }

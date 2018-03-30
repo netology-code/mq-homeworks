@@ -1,0 +1,16 @@
+@media (min-width: 769px) {
+  .products {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .product {
+    width: 32%;
+  }
+}
+
+.product__footer {
+  justify-content: space-between;
+  align-items: flex-end;
+}
