@@ -18,25 +18,25 @@
 
 1. Измените существующий код так, чтобы свойства `font-size` и `background-image` применялись только для устройств, у которых ширина экрана больше `1300px`.
 
-2. Для устройств, у которых ширина экрана одновременно больше `640px` и меньше `1301px`, рассчитайте `font-size` элемента `.header` так, чтобы у элемента `.header__slogan` `font-size` был `36px`.
+2. Для устройств, у которых ширина экрана одновременно больше `640px` и меньше `1301px`, рассчитайте `font-size` элемента с классом `header` так, чтобы у элемента с классом `header__slogan` `font-size` был `36px`.
 
-3. Для устройств, у которых ширина экрана меньше `641px`, рассчитайте `font-size` элемента `.header` так, чтобы у элемента `.header__slogan` `font-size` был `24px`.
+3. Для устройств, у которых ширина экрана меньше `641px`, рассчитайте `font-size` элемента с классом `header` так, чтобы у элемента с классом `header__slogan` `font-size` был `24px`.
 
-4. Для устройств, у которых ширина экрана одновременно больше `640px` и меньше `1301px`, добавьте фоновое изображение [netology_1200.jpg](https://netology-code.github.io/mq-homeworks/adaptive-layout/welcome-block/img/netology_1200.jpg) у элемента `.header`.
+4. Для устройств, у которых ширина экрана одновременно больше `640px` и меньше `1301px`, добавьте фоновое изображение [netology_1200.jpg](https://netology-code.github.io/mq-homeworks/adaptive-layout/welcome-block/img/netology_1200.jpg) у элемента с классом `header`.
 
-5. Для устройств, у которых ширина экрана меньше 641px, добавьте фоновое изображение [netology_600.jpg](https://netology-code.github.io/mq-homeworks/adaptive-layout/welcome-block/img/netology_600.jpg) у элемента `.header`.
+5. Для устройств, у которых ширина экрана меньше 641px, добавьте фоновое изображение [netology_600.jpg](https://netology-code.github.io/mq-homeworks/adaptive-layout/welcome-block/img/netology_600.jpg) у элемента с классом `header`.
 
 6. Протестируйте результат в эмуляторе, выбрав iPad:
  
 ![Welcome block layout target on a tablet screen](../../sources/adaptive-layout-welcome-step0.jpg)
 
-У вас должно загружаться фоновое изображение `netology_1200.jpg`, а размер шрифта элемента `.header__slogan` должен быть `36px`.
+У вас должно загружаться фоновое изображение `netology_1200.jpg`, а размер шрифта элемента с классом `header__slogan` должен быть `36px`.
 
 7. Протестируйте результат в эмуляторе, выбрав iPhone 4:
 
 ![Welcome block layout target on a small screen](../../sources/adaptive-layout-welcome-step1.jpg)
 
-У вас должно загружаться фоновое изображение `netology_600.jpg`, а размер шрифта элемента `.header__slogan` должен быть `24px`.
+У вас должно загружаться фоновое изображение `netology_600.jpg`, а размер шрифта элемента с классом `header__slogan` должен быть `24px`.
 
 ## Реализация
 
