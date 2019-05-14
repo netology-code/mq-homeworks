@@ -8,7 +8,7 @@
 
 ![Can't see portrait on a small screen](../../sources/fluid-images-portrait-scroll.png)
 
-Друг попросил вас помочь ему сделать так, чтобы в окне браузера любой ширины портрет было бы видно полностью. В узком окне браузера:
+Друг попросил вас помочь ему сделать так, чтобы в окне браузера любой ширины портрет было видно полностью. В узком окне браузера:
 
 ![Portrait on a small screen](../../sources/fluid-images-portrait-target-small.png)
 

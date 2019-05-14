@@ -32,7 +32,7 @@ p:last-child {
   padding-bottom: 30px;
 }
 
-@media (min-width: 767px) {
+@media (min-width: 768px) {
 
   .page {
     padding: 15px;
@@ -45,7 +45,7 @@ p:last-child {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 
   .article__content{
     padding-left: 15px;
