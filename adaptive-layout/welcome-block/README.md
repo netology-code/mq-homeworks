@@ -46,6 +46,4 @@
 
 ### В песочнице CodePen
 
-
 Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/aVydom](https://codepen.io/Netology/pen/aVydom). Внесите изменения во вкладке CSS пена.
-=======
