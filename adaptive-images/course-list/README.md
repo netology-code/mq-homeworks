@@ -10,11 +10,13 @@
 
 ## Процесс реализации
 
-1. Измените HTML-разметку блоков с курсами так, чтобы на устройствах с шириной экрана до `640px` загружались следующие изображения: [front-end-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/front-end-mobile.jpg), [fullstack-designer-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/fullstack-designer-mobile.jpg) и [web-developer-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/web-developer-mobile.jpg). 
+1. Если вы выполняете задание в песочнице CodePen - в начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально - данный мета-тег уже добавлен.
+   
+2. Измените HTML-разметку блоков с курсами так, чтобы на устройствах с шириной экрана до `640px` загружались следующие изображения: [front-end-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/front-end-mobile.jpg), [fullstack-designer-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/fullstack-designer-mobile.jpg) и [web-developer-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/web-developer-mobile.jpg). 
 
-2. Сделайте так, чтобы на устройствах с шириной экрана от `641px` загружались следующие изображения: [front-end-desktop.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/front-end-desktop.jpg), [fullstack-designer-desktop.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/fullstack-designer-desktop.jpg) и [web-developer-desktop.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/web-developer-desktop.jpg). Также эти изображения должны отобразиться в браузерах, которые не поддерживают тег `<picture>`.
+3. Сделайте так, чтобы на устройствах с шириной экрана от `641px` загружались следующие изображения: [front-end-desktop.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/front-end-desktop.jpg), [fullstack-designer-desktop.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/fullstack-designer-desktop.jpg) и [web-developer-desktop.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/web-developer-desktop.jpg). Также эти изображения должны отобразиться в браузерах, которые не поддерживают тег `<picture>`.
 
-3. Протестируйте результат. На устройствах с шириной экрана от `641px` блок с курсом должен выглядеть так: 
+4. Протестируйте результат. На устройствах с шириной экрана от `641px` блок с курсом должен выглядеть так: 
 
 ![Course blocks page layout target](../../sources/adaptive-images-courses-step0.jpg)
 

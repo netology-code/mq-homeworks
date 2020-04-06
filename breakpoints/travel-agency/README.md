@@ -13,10 +13,11 @@
 ![Travel agency main page layout small screen](../../sources/breakpoints-agency-small.jpg)
 
 ## Процесс реализации
+1. Если вы выполняете задание в песочнице CodePen - в начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально - данный мета-тег уже добавлен.
 
-1. Перепишите код согласно принципу Mobile First.
+2. Перепишите код согласно принципу Mobile First.
 
-2. Отсортируйте медиа-запросы согласно принципу Mobile First.
+3. Отсортируйте медиа-запросы согласно принципу Mobile First.
 
 ### Локально с использованием git
 

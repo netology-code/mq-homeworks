@@ -15,14 +15,15 @@
 ![Search form in focus](../../sources/mobile-graphic-form-focus.jpeg)
 
 ## Процесс реализации
+1. Если вы выполняете задание в песочнице CodePen - в начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально - данный мета-тег уже добавлен.
 
-1. Скачайте иконку лупы [по ссылке](https://netology-code.github.io/mq-homeworks/sources/search.svg).
+2. Скачайте иконку лупы [по ссылке](https://netology-code.github.io/mq-homeworks/sources/search.svg).
 
-2. Вставьте иконку в HTML-файл, добавив ей класс `search__icon`.
+3. Вставьте иконку в HTML-файл, добавив ей класс `search__icon`.
 
-3. Задайте иконке белый цвет — `#ffffff`.
+4. Задайте иконке белый цвет — `#ffffff`.
 
-4. При получении фокуса (псевдокласс `:focus`) полем ввода поменяйте цвет иконки на `#6441a5`.
+5. При получении фокуса (псевдокласс `:focus`) полем ввода поменяйте цвет иконки на `#6441a5`.
 
 ## Реализация
 
