@@ -51,6 +51,4 @@
 
 ## Реализация
 
-### Локально с использованием git
-
 Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/rYQQgP](https://codepen.io/Netology/pen/rYQQgP)
