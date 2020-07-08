@@ -26,10 +26,4 @@
 
 ## Реализация
 
-### Локально с использованием git
-
-Внесите изменения в файл `index.html`. Другие файлы изменять не требуется (не изменяйте файл `./css/courses-common.css`).
-
-### В песочнице CodePen
-
 Внесите изменения во вкладке HTML. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/yPQQWq](https://codepen.io/Netology/pen/yPQQWq)

@@ -13,16 +13,8 @@
 ![Travel agency main page layout small screen](../../sources/breakpoints-agency-small.jpg)
 
 ## Процесс реализации
-1. Если вы выполняете задание в песочнице CodePen - в начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально - данный мета-тег уже добавлен.
-
-2. Перепишите код согласно принципу Mobile First.
-
-3. Отсортируйте медиа-запросы согласно принципу Mobile First.
-
-### Локально с использованием git
-
-Внесите изменения в файл `./css/page.css`. Файл уже подключен к документу, поэтому другие файлы изменять не требуется (не изменяйте файл `./css/page-common.css`).
-
-### В песочнице CodePen
+1. В начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`.
+1. Перепишите код согласно принципу Mobile First.
+1. Отсортируйте медиа-запросы согласно принципу Mobile First.
 
 Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/WXyEqp](https://codepen.io/Netology/pen/WXyEqp)
