@@ -15,7 +15,7 @@
 ![Services layout target small](../../sources/media-features-services-small.jpg)
 
 ## Процесс реализации
-1. Если вы выполняете задание в песочнице CodePen - в начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально - данный мета-тег уже добавлен.
+1. В начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. 
 
 2. Отцентрируйте по горизонтали и вертикали названия услуг – элементы с классом `post__name`.
 
