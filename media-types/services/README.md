@@ -7,7 +7,7 @@
  
 ![Services layout current](../../sources/media-queries-services-current.jpg)
 
-Ваша задача &mdash; — исправить верстку так, чтобы блоки располагались по два в строчку, начиная с `1024px`:
+Ваша задача — исправить верстку так, чтобы блоки располагались по два в строчку, начиная с `1024px`:
 
 ![Services layout target](../../sources/media-queries-services-target.jpg)
 
