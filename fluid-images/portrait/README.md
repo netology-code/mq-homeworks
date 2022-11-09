@@ -2,9 +2,9 @@
 
 ## Описание
 
-Ваш знакомый — страшный романтик. Он решил сделать подарок своей жене на их годовщину и сверстал, как сумел, страницу с ее портретом.
+Ваш знакомый — страшный романтик. Он решил сделать подарок своей жене на их годовщину и сверстал, как сумел, страницу с её портретом.
 
-Но вот беда! Если сузить окно браузера, то портрета почти не видно:
+Но вот беда: если сузить окно браузера, то портрета почти не видно:
 
 ![Can't see portrait on a small screen](../../sources/fluid-images-portrait-scroll.png)
 
@@ -12,7 +12,7 @@
 
 ![Portrait on a small screen](../../sources/fluid-images-portrait-target-small.png)
 
-И в широком:
+В широком:
 
 ![Portrait on a wide screen](../../sources/fluid-images-portrait-target-widescreen.jpg)
 
@@ -32,4 +32,4 @@
 
 В ходе решения этой задачи не изменяйте HTML-разметку.
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/LOPbzy](https://codepen.io/Netology/pen/LOPbzy?editors=0100#0)
+Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена [здесь](https://codepen.io/Netology/pen/LOPbzy?editors=0100#0).
