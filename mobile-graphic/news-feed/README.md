@@ -10,12 +10,12 @@
 
 ![News feed layout target](../../sources/mobile-graphic-feed-target.jpeg)
 
-И макет для мобильных устройств:
+Макет для мобильных устройств:
 
 ![News feed layout target on a small screen](../../sources/mobile-graphic-feed-small.jpeg)
 
 ## Процесс реализации
-1. В начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. 
+1. В начале работы добавьте в тег `<head>` следующий метатег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. 
 
 2. Для устройств с шириной экрана более `640px` расположите новости в две колонки, используя flexbox.
 
@@ -23,4 +23,4 @@
 
 ## Реализация
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/ooZWRZ](https://codepen.io/Netology/pen/ooZWRZ)
+Внесите изменения во вкладке CSS. [Перед началом работы сделайте форк пена](https://codepen.io/Netology/pen/ooZWRZ).
