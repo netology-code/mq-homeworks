@@ -10,7 +10,7 @@
 5. [Особенности верстки для мобильных устройств](mobile-graphic/)  
 
 ## Блок 3. Адаптивная вёрстка
-3.1. [Верстка адаптивного макета](adaptive-layout/)  
-3.2. [Адаптивная типографика](adaptive-typography/)  
-3.3. [Breakpoints](breakpoints/)  
-3.4. [Адаптивные изображения](adaptive-images/)  
+6. [Верстка адаптивного макета](adaptive-layout/)  
+7. [Адаптивная типографика](adaptive-typography/)  
+8. [Breakpoints](breakpoints/)  
+9. [Адаптивные изображения](adaptive-images/)  
