@@ -14,3 +14,5 @@
 7. [Адаптивная типографика](adaptive-typography/)  
 8. [Breakpoints](breakpoints/)  
 9. [Адаптивные изображения](adaptive-images/)  
+10. [CSS-Grid] (css-grid/)
+11. [Кроссбраузерность и доступность] (compatability/)
