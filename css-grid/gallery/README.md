@@ -4,7 +4,7 @@
 
 Сверстайте галерею изображений с использованием CSS Grid по макету:
 
-![макет](../../sources/css-grid-gallery-layout.jpg)
+![макет](https://github.com/netology-code/mq-homeworks/blob/mq-63/css-grid/gallery/css-grid-gallery-layout.jpg)
 
 ## Процесс реализации
 
