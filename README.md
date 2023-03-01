@@ -14,5 +14,5 @@
 7. [Адаптивная типографика](adaptive-typography/)  
 8. [Breakpoints](breakpoints/)  
 9. [Адаптивные изображения](adaptive-images/)  
-10. [CSS-Grid] (css-grid/)
-11. [Кроссбраузерность и доступность] (compatability/)
+10. [CSS-Grid](https://github.com/netology-code/mq-homeworks/tree/mq-63/css-grid)
+11. [Кроссбраузерность и доступность](https://github.com/netology-code/mq-homeworks/tree/mq-63/compatability/)
