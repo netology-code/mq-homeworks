@@ -4,7 +4,7 @@
 
 Сверстайте виджет календаря с использованием CSS Grid по макету
 
-[макет](../../sources/css-grid-calendar.psd)
+[макет](https://github.com/netology-code/mq-homeworks/blob/mq-63/css-grid/calendar/css-grid-calendar.psd)
 
 Календарь должен растягиваться на всю ширину экрана.
 В качестве шрифта можно использовать любой шрифт без засечек
