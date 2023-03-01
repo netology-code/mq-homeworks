@@ -9,7 +9,7 @@
 
 ## Процесс реализации
 
-Скачайте макет сайта в Figma по [ссылке](../../sources/compatibility-figma-source.fig)
+Скачайте макет сайта в Figma по [ссылке](https://github.com/netology-code/mq-homeworks/blob/mq-63/compatability/figma/compatibility-figma-source.fig)
 
 Реализуйте работу в новом Codepen-проекте
 
