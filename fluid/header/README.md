@@ -37,4 +37,4 @@
 
 В ходе решения этой задачи не изменяйте HTML-разметку.
 
-Внесите изменения во вкладке CSS. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/rGEGJm](https://codepen.io/Netology/pen/rGEGJm?editors=0100#0)
+Внесите изменения во вкладке CSS. [Перед началом работы сделайте форк пена](https://codepen.io/Netology/pen/rGEGJm?editors=0100#0).
