@@ -1,4 +1,4 @@
-# Список курсов компании Нетология
+# Список курсов Нетологии
 
 ## Описание
 
@@ -6,11 +6,11 @@
  
 ![Course blocks page layout current](../../sources/adaptive-images-courses-current.jpg)
 
-Но до этого момента на странице отображались одинаковые изображения для любых устройств с любыми экранами. Самое время заняться версткой и сделать блоки и изображения в них адаптивными.
+Но до этого момента на странице отображались одинаковые изображения для любых устройств с любыми экранами. Самое время заняться вёрсткой и сделать блоки и изображения в них адаптивными.
 
 ## Процесс реализации
 
-1. Если вы выполняете задание в песочнице CodePen - в начале работы добавьте в тег `<head>` следующий мета-тег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально - данный мета-тег уже добавлен.
+1. Если вы выполняете задание в песочнице CodePen, в начале работы добавьте в тег `<head>` следующий метатег `<meta name="viewport" content="width=device-width, initial-scale=1.0">`. Если вы выполняете задание локально, этот метатег уже добавлен.
    
 2. Измените HTML-разметку блоков с курсами так, чтобы на устройствах с шириной экрана до `640px` загружались следующие изображения: [front-end-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/front-end-mobile.jpg), [fullstack-designer-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/fullstack-designer-mobile.jpg) и [web-developer-mobile.jpg](https://netology-code.github.io/mq-homeworks/adaptive-images/course-list/img/web-developer-mobile.jpg). 
 
@@ -20,10 +20,10 @@
 
 ![Course blocks page layout target](../../sources/adaptive-images-courses-step0.jpg)
 
-А на устройствах с шириной до `640px` так:
+А на устройствах с шириной до `640px` — так:
 
 ![Course blocks page layout target small screen](../../sources/adaptive-images-courses-step1.jpg)
 
 ## Реализация
 
-Внесите изменения во вкладке HTML. Перед началом работы сделайте форк пена на [https://codepen.io/Netology/pen/yPQQWq](https://codepen.io/Netology/pen/yPQQWq)
+Внесите изменения во вкладке HTML. [Перед началом работы сделайте форк пена](https://codepen.io/Netology/pen/yPQQWq).
