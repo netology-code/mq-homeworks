@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  background-color: #f3f3f3;
+  font-family: Roboto, sans-serif;
+  color: #333333;
+}
+
+.container {
+  max-width: 1280px;
+  min-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+img {
+  width: 50%;
+  height: 128px;
+  object-fit: cover;
+}
+
+span {
+  display: block;
+
+  color: #999999;
+}
+
+a {
+  text-decoration: none;
+
+  text-transform: uppercase;
+
+  color: inherit;
+
+  display: block;
+}
+
+.trophies>div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.trophies>div>div {
+  text-align: center;
+  padding: 15px;
+
+  width: 25%;
+  box-sizing: border-box;
+}
+
+h2 {
+  text-align: center;
+}
