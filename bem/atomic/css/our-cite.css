@@ -1,0 +1,49 @@
+.trophies__title {
+    text-transform: uppercase;
+
+    font-size: 40px;
+    line-height: 45px;
+
+    font-weight: 300;
+
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.trophy__name {
+    font-size: 30px;
+    line-height: 35px;
+
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.trophy {
+    margin-bottom: 20px;
+    
+    border: 3px solid #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 10px 24px 0 rgba(0, 0, 0, 0.19), 0 15px 34px 0 rgba(0, 0, 0, 0.06);
+}
+
+.trophy__img {
+    margin-bottom: 30px;
+
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px #ffffff;
+}
+
+.trophy__year {
+    font-size: 20px;
+    line-height: 25px;
+
+    margin-bottom: 20px;
+}
+
+.trophy__link {
+    font-size: 20px;
+    line-height: 25px;
+
+    text-transform: uppercase;
+}
+
