@@ -8,6 +8,20 @@
 
 1. Скачайте макет сайта в Figma по [ссылке](https://github.com/netology-code/mq-homeworks/blob/mq-63/compatability/figma/compatibility-figma-source.fig).
 2. Реализуйте работу в новом Codepen-проекте.
+
+<details>
+    <summary>Подсказки</summary>
+    <ul>
+        <li>логотип сделайте ссылкой</li>
+        <li>для навигации используйте тег nav</li>
+        <li>навигация - это список ссылок</li>
+        <li>у кнопок вне формы указывайте тип button, чтобы не искался тег form</li>
+        <li>для формы используйте тег form</li>
+        <li>для поля ввода используйте тег input, подпись для него - label</li>
+        <li>для построения сеток используйте flex(не absolute) m</li>
+    </ul>
+</details>
+
 3. Используйте в проекте код normalize.css.
 
 ## Дополнительное задание
