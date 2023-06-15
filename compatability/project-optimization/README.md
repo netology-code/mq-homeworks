@@ -10,9 +10,12 @@
 2. Уменьшите вес всех растровых изображений, сохранив их качество с помощью сервиса [TinyPNG](https://tinypng.com/), [imagecompressor.com](https://imagecompressor.com/), [imagecompressor.io](https://imagecompressor.io/) или любых других.
 <details>
 <summary>Подсказка - Список растровых картинок</summary>
-- фон у блока header
-- шатл в блоке header
-- картинки в блоке settle
+  <ul>
+    <li>фон у блока header</li>
+    <li>шатл в блоке header</li>
+    <li>картинки в блоке settle</li>
+  </ul>
+  Фон у блока header, шатл в блоке header, картинки в блоке settle
 </details> 
 
 3. Замените иконки в подвале сайта на их векторный аналог. Найти похожие можно например на [icons8.com](https://icons8.com/), www.svgrepo.com. Размещайте svg-код иконки в HTML-файле.
