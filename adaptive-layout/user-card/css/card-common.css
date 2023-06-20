@@ -56,16 +56,16 @@ body {
   margin-left: 1em;
 }
 
-.profile__contact_facebook {
-  background-image: url("../img/facebook_white.svg");
+.profile__contact_vk {
+  background-image: url("../img/vk-logo.svg");
 }
 
-.profile__contact_twitter {
-  background-image: url("../img/twitter_white.svg");
+.profile__contact_telegram {
+  background-image: url("../img/telegram-logo.svg");
 }
 
-.profile__contact_instagram {
-  background-image: url("../img/instagram_white.svg");
+.profile__contact_odnoklassniki {
+  background-image: url("../img/odnoklassniki-logo.svg");
 }
 
 @media (min-width: 1301px), (max-width: 767px) {
