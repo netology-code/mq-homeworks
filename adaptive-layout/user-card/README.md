@@ -4,15 +4,15 @@
 
 Заказы от фотографов продолжают поступать. Поэтому вы решили создать сайт, на котором каждый фотограф сможет разместить свое портфолио. Информация о каждом из фотографов будет представлена в виде карточек с контактными данными. Сейчас при всех разрешениях экрана такая карточка выглядит одинаково:
  
-![User card layout current](../../sources/adaptive-layout-card-current.jpg)
+![User card layout current](./sources/adaptive-layout-card-current.jpg)
 
 Нужно изменить верстку таким образом, чтобы на устройствах с шириной экрана от `767px` и меньше или от `1301px` и больше карточка выглядела так: 
 
-![User card layout target on a full & small screen](../../sources/adaptive-layout-card-target.jpg)
+![User card layout target on a full & small screen](./sources/adaptive-layout-card-target.jpg)
 
 А на устройствах с шириной экрана в диапазоне от `768px` до `1300px` включительно — так:
 
-![User card layout target on a tablet screen](../../sources/adaptive-layout-card-ipad.jpg)
+![User card layout target on a tablet screen](./sources/adaptive-layout-card-ipad.jpg)
 
 ## Процесс реализации
 
@@ -28,15 +28,15 @@
 
 6. Протестируйте на обычном мониторе. У вас должно получиться так:
 
-![User card layout target on a desktop](../../sources/adaptive-layout-card-step0.jpg)
+![User card layout target on a desktop](./sources/adaptive-layout-card-step0.jpg)
 
 6. Протестируйте результат в эмуляторе, выбрав iPad. У вас должно получиться так:
 
-![User card layout target on a tablet](../../sources/adaptive-layout-card-step1.jpg)
+![User card layout target on a tablet](./sources/adaptive-layout-card-step1.jpg)
 
 7. Протестируйте результат в эмуляторе, выбрав iPhone 4. У вас должно получиться так:
 
-![User card layout target on a small screen](../../sources/adaptive-layout-card-step2.jpg)
+![User card layout target on a small screen](./sources/adaptive-layout-card-step2.jpg)
 
 ## Реализация
 
