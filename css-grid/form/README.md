@@ -6,7 +6,7 @@
 
 ## Инструкция к выполнению 
 
-1. Скачайте и откройте [макет](https://github.com/netology-code/mq-homeworks/blob/1-add/sources/form.psd) формы
+1. Скачайте и откройте [макет](https://github.com/netology-code/mq-homeworks/blob/update/css-grid/form/form.psd) формы
 2. Сверстайте форму. Используйте новый проект в Codepen.
 
 <details>
