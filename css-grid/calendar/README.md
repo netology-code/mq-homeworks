@@ -2,7 +2,9 @@
 
 ## Задача
 
-Сверстайте виджет календаря с использованием CSS Grid по макету(https://github.com/netology-code/mq-homeworks/blob/update/css-grid/calendar/grid-calender.png)
+Сверстайте виджет календаря с использованием CSS Grid по 
+![макету](https://github.com/netology-code/mq-homeworks/blob/update/css-grid/calendar/grid-calender.png)
+
 
 ## Инструкция к выполнению задания
 1. Перед началом работы сделайте форк пена [здесь](https://codepen.io/Netology/pen/eYapweg)
