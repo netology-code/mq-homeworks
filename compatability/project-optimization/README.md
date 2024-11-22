@@ -7,7 +7,7 @@
 ## Инструкция к выполнению задания
 
 1. Перед началом работы сделайте [форк пена](https://codepen.io/Netology/pen/mdQeZmY) или можете сделать форк из своего решенного задания 1.
-2. Уменьшите вес всех растровых изображений для мобильных устройствах(экраны меньше 460px), сохранив их качество с помощью сервиса [TinyPNG](https://tinypng.com/), [imagecompressor.com](https://imagecompressor.com/), [imagecompressor.io](https://imagecompressor.io/) или любых других.
+2. Уменьшите вес всех растровых изображений, сохранив их качество с помощью сервиса [TinyPNG](https://tinypng.com/), [imagecompressor.com](https://imagecompressor.com/), [imagecompressor.io](https://imagecompressor.io/) или любых других.
 <details>
     <summary>Подсказка - Список растровых картинок</summary>
     <ul>
