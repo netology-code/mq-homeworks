@@ -1,0 +1,213 @@
+/*
+  цвета - #fff; #620031; #000; #a3a3a3;
+  font-size: основной текст - 18px, заголовки - 23px, большие заголовки 60px
+  padding-top-bottom - 24px
+  padding-top - 24px
+  padding- 24px
+*/
+
+/*----------------------------------------reset-styles---------------------------------------*/
+
+ul,
+body,
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+/*----------------------------------------common-styles---------------------------------------*/
+body {
+  position: relative;
+  width: auto;
+  font-family: Arial;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.wrp {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.visually-hidden {
+  position: fixed;
+  transform: scale(0);
+}
+
+/*----------------------------------------header-styles---------------------------------------*/
+.header {
+  background: url(https://i.postimg.cc/VYN9sGVd/bg-home.jpg) no-repeat scroll center top #000000;
+  background-size: cover;
+  min-height: 800px;
+  position: relative;
+}
+
+.navigation {
+  display: flex;
+}
+
+.navigation-wrp {
+  background: url(https://i.postimg.cc/SNWd8n6R/bg-transparent1.png) repeat;
+}
+
+.navigation li a {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-weight: normal;
+  min-height: 60px;
+  padding: 0 24px;
+
+  text-align: center;
+}
+
+.navigation li a:hover {
+  background-color: #620031;
+  color: #fff;
+}
+
+.navigation li.selected a {
+  background-color: #000;
+  color: #a3a3a3;
+}
+
+.header-setle-img {
+  position: absolute;
+  top: 41px;
+  z-index: 1;
+}
+
+.header-content-wrp {
+  width: 503px;
+  text-align: end;
+  padding: 0 24px 0 0;
+  margin-left: auto;
+}
+
+.header-title {
+  font-size: 60px;
+  font-weight: normal;
+  margin: 187px 0 27px;
+}
+
+.header-subtitle {
+  font-size: 23px;
+  font-weight: normal;
+  margin: 0 0 36px;
+}
+
+.more {
+  background-color: #000000;
+  color: #a3a3a3;
+  font-size: 18px;
+  width: 50%;
+  height: 49px;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.more:hover {
+  background-color: #620031;
+}
+
+/*----------------------------------------main---------------------------------------*/
+
+.main {
+  background-color: #000000;
+  margin-top: -200px;
+  position: relative;
+  z-index: 2;
+}
+
+.settle-title {
+  background: url(https://i.postimg.cc/SNWd8n6R/bg-transparent1.png) repeat;
+  color: #a3a3a3;
+  font-size: 23px;
+  font-weight: normal;
+  padding: 24px;
+  text-align: center;
+}
+
+.settle-list {
+  display: flex;
+}
+
+.settle-list li {
+  width: 25%;
+}
+
+.desc {
+  background-color: #630031;
+  text-align: center;
+  padding: 40px 0 50px;
+}
+
+.desc-title {
+  font-size: 23px;
+  font-weight: normal;
+  margin: 0 0 20px;
+}
+
+.desc-text {
+  font-size: 18px;
+  width: 65%;
+  margin: 0 auto;
+  text-transform: none;
+}
+
+/*----------------------------------------footer---------------------------------------*/
+
+.footer {
+  background-color: #a3a3a3;
+}
+
+.footer-wrp {
+  display: flex;
+  align-items: center;
+  min-height: 100px;
+  justify-content: center;
+}
+
+.footer-list {
+  display: flex;
+  margin: 0 0 0 30px;
+}
+
+.link {
+  display: block;
+}
+
+.link:hover {
+  opacity: 0.6;
+}
+
+.pinterest {
+  background: url(https://i.postimg.cc/JzpbcZGr/icons.png) no-repeat;
+  height: 38px;
+  background-position: 0 -76px;
+  margin: 0 0 0 16px;
+  width: 30px;
+}
+
+.g-plus {
+  background: url(https://i.postimg.cc/JzpbcZGr/icons.png) no-repeat;
+  height: 38px;
+  background-position: 0 -36px;
+  margin: 0 0 0 28px;
+  width: 38px;
+}

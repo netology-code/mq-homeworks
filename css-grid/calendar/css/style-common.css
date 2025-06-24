@@ -1,0 +1,39 @@
+body {
+  font-family: arial, serif;
+}
+
+.calendar__title {
+  text-align: center;
+  font-size: 48px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.calendar {
+  gap: 15px;
+  padding: 20px;
+}
+
+.calendar__week-day {
+  min-height: 5vw;
+  background: #e0e0e0;
+  font-size: 1.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+}
+
+.calendar__day {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.calendar__day {
+  background: #e0e0e0;
+}
+
+.calendar__week-day_sun,
+.calendar__day_empty {
+  background: #a8a9a8;
+}

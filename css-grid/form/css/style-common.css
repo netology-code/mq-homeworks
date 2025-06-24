@@ -1,0 +1,40 @@
+body {
+  background: #492ba7;
+  color: #ffff;
+  font-family: sans-serif;
+}
+
+.form {
+  margin: 0 auto;
+  gap: 20px;
+  width: 600px;
+  border: 4px solid;
+  box-sizing: border-box;
+  padding: 20px 40px 20px 20px;
+}
+
+
+.form__input {
+  line-height: 24px;
+  font-size: 20px;
+  width: 100%;
+  color: white;
+  display: block;
+  border: 2px solid white;
+  box-sizing: border-box;
+  background: inherit;
+  padding: 10px;
+}
+
+.form__label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.form__btn {
+  background: #ff6721;
+  color: #ffff;
+  font-size: 30px;
+  text-transform: uppercase;
+  border: none;
+}
