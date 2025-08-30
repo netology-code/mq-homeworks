@@ -8,6 +8,7 @@
 
 1. Скачайте макет сайта в Figma по [ссылке](https://github.com/netology-code/mq-homeworks/blob/mq-63/compatability/figma/compatibility-figma-source.fig).
 2. Реализуйте работу в новом Codepen-проекте.
+3. Редактор CodePen больше недоступен в РФ. Если вы не можете сделать задание в нём, то предлагаем вам альтернативное решение - JS Bin. Создайте аккаунт, перенесите стили из репозитория GitHub и выполняйте задания в JS Bin. [Подробная инструкция](https://github.com/netology-code/guides/tree/master/jsbin)
 
 <details>
     <summary>Подсказки</summary>
@@ -22,7 +23,7 @@
     </ul>
 </details>
 
-3. Используйте в проекте код normalize.css.
+4. Используйте в проекте код normalize.css.
 
 ## Дополнительное задание
 Данное задание не обязательно для выполнения. Сделайте мобильную версию сайта по своему усмотрению.
