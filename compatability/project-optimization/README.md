@@ -7,7 +7,8 @@
 ## Инструкция к выполнению задания
 
 1. Перед началом работы сделайте [форк пена](https://codepen.io/Netology/pen/mdQeZmY) или можете сделать форк из своего решенного задания 1.
-2. Уменьшите вес всех растровых изображений, сохранив их качество с помощью сервиса [TinyPNG](https://tinypng.com/), [imagecompressor.com](https://imagecompressor.com/), [imagecompressor.io](https://imagecompressor.io/) или любых других.
+2. Редактор CodePen больше недоступен в РФ. Если вы не можете сделать задание в нём, то предлагаем вам альтернативное решение - JS Bin. Создайте аккаунт, перенесите стили из репозитория GitHub и выполняйте задания в JS Bin. [Подробная инструкция](https://github.com/netology-code/guides/tree/master/jsbin)
+3. Уменьшите вес всех растровых изображений, сохранив их качество с помощью сервиса [TinyPNG](https://tinypng.com/), [imagecompressor.com](https://imagecompressor.com/), [imagecompressor.io](https://imagecompressor.io/) или любых других.
 <details>
     <summary>Подсказка - Список растровых картинок</summary>
     <ul>
@@ -16,5 +17,5 @@
         <li>картинки в блоке settle</li>
     </ul>
 </details> 
-3. Замените иконки в подвале сайта на их векторный аналог. Найти похожие можно например на [icons8.com](https://icons8.com/), [www.svgrepo.com](!https://www.svgrepo.com/). Размещайте svg-код иконки в HTML-файле.
-4. Вносите изменения во вкладках CSS и HTML. 
+4. Замените иконки в подвале сайта на их векторный аналог. Найти похожие можно например на [icons8.com](https://icons8.com/), [www.svgrepo.com](!https://www.svgrepo.com/). Размещайте svg-код иконки в HTML-файле.
+5. Вносите изменения во вкладках CSS и HTML. 
